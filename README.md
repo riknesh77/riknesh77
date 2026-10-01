@@ -1,8 +1,8 @@
 <div align="center">
 
-# `riknesh@github:~$ whoami`
+# `RIKNESH POONITHAN`
 
-### `RIKNESH // AI & DATA SCIENCE`
+### `AI & DATA SCIENCE // APPLIED AI`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=70A5FD&center=true&vCenter=true&width=720&lines=Building+Applied+AI+Systems;Teaching+Machines+to+Spot+Defects;Making+LLMs+Actually+Useful;Turning+Ideas+Into+Working+Systems)](https://git.io/typing-svg)
 
