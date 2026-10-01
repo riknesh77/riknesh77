@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Main Title](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2400&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=riknesh+poonithan%3A~%24+whoami)](https://git.io/typing-svg)
+[![Main Title](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2400&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=720&lines=riknesh+poonithan%3A~%24+whoami)](https://git.io/typing-svg)
 
 ### `AI & DATA SCIENCE // APPLIED AI`
 
