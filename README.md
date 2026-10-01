@@ -47,7 +47,7 @@ A document-grounded question-answering system using **MiniLM embeddings, Postgre
 
 ---
 
-## `> cat stack.txt`
+## `> cat tech_stack.txt`
 
 **AI / Data**
 
