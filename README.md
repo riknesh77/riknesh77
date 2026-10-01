@@ -2,6 +2,8 @@
 
 # `RIKNESH POONITHAN`
 
+[![Terminal](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=900&color=70A5FD&center=true&vCenter=true&width=500&lines=riknesh%40github%3A~%24+whoami)](https://git.io/typing-svg)
+
 ### `AI & DATA SCIENCE // APPLIED AI`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=70A5FD&center=true&vCenter=true&width=720&lines=Building+Applied+AI+Systems;Teaching+Machines+to+Spot+Defects;Making+LLMs+Actually+Useful;Turning+Ideas+Into+Working+Systems)](https://git.io/typing-svg)
