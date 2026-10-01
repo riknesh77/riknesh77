@@ -1,18 +1,117 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>AI-Powered IT Asset Management Assistant using Microsoft Copilot Studio, Python & FastAPI.<br><br>👯 I’m looking to collaborate on:<br>AI Agents, LLM Applications, RAG Systems, Enterprise AI Solutions and Open Source AI Projects.<br><br>🤝 I’m looking for help with:<br>Advanced Agentic AI, Azure AI Services, MLOps and Enterprise AI Deployment.<br><br>🌱 I’m currently learning:<br>Microsoft Copilot Studio, Agentic AI, RAG, LangChain, Azure AI and FastAPI.<br><br>💬 Ask me about:<br>Python, Data Analytics, AI, Machine Learning, LLMs, RAG, Web Development and Enterprise AI.<br><br>⚡ Fun fact:<br>I enjoy building AI solutions that solve real-world business problems and I'm a huge automotive enthusiast.
+<div align="center">
 
+# `riknesh@github:~$ whoami`
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rlornsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/riknesh-poonithan](https://www.linkedin.com/in/riknesh-poonithan-4a2070395/)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_rik777) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laxmerik007@gmail.com) 
+### AI & Data Science • Applied AI • Building systems that solve real problems
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=riknesh77&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=riknesh77&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=riknesh77&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+`Computer Science @ Universiti Teknologi PETRONAS`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=riknesh77&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+> **Build AI that does something.**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## `> system_status`
+
+```yaml
+status: BUILDING
+focus:
+  - Applied AI
+  - Computer Vision
+  - LLM Systems
+  - Agentic AI
+
+current_mission: Industrial Visual Anomaly Detection
+side_quests:
+  - AI IT Troubleshooting Assistant
+  - Document RAG System
+
+currently_exploring:
+  - MLOps
+  - Azure AI
+  - Real-Time Vision
+  - Production AI Deployment
+```
+
+## `> projects --active`
+
+### 🔍 Industrial Visual Anomaly Detection
+Teaching machines to spot defects using **PatchCore, Anomalib and Computer Vision** — exploring PCB inspection and real-time deployment.
+
+### 🧠 AI IT Troubleshooting Assistant
+An AI-assisted diagnostic system combining **Python, FastAPI, Windows diagnostics and local LLMs** to turn system telemetry into practical troubleshooting guidance.
+
+### 📚 [Document RAG Chatbot](https://github.com/riknesh77/document-rag-chatbot)
+A document-grounded question-answering system using **MiniLM embeddings, PostgreSQL + pgvector, reranking and LLM generation**.
+
+---
+
+## `> cat stack.txt`
+
+**AI / Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Backend / Web**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Languages / Cloud / Tools**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## `> ./github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=riknesh77&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=riknesh77&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=riknesh77&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `> cat human.txt`
+
+```text
+AI engineer in progress.
+I like building things that leave the notebook and enter the real world.
+Automotive enthusiast — permanently.
+```
+
+## `> connect --with-me`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riknesh_Poonithan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riknesh-poonithan-4a2070395/)
+[![Instagram](https://img.shields.io/badge/Instagram-@rlornsh-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rlornsh)
+[![TikTok](https://img.shields.io/badge/TikTok-@_rik777-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@_rik777)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:laxmerik007@gmail.com)
+
+---
+
+<div align="center">
+
+`riknesh@github:~$ █`
+
+**Always building. Always learning.**
+
+</div>
