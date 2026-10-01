@@ -2,7 +2,9 @@
 
 # `riknesh@github:~$ whoami`
 
-### AI & Data Science • Applied AI • Building systems that solve real problems
+### `RIKNESH // AI & DATA SCIENCE`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=70A5FD&center=true&vCenter=true&width=720&lines=Building+Applied+AI+Systems;Teaching+Machines+to+Spot+Defects;Making+LLMs+Actually+Useful;Turning+Ideas+Into+Working+Systems)](https://git.io/typing-svg)
 
 `Computer Science @ Universiti Teknologi PETRONAS`
 
@@ -36,14 +38,48 @@ currently_exploring:
 
 ## `> projects --active`
 
-### 🔍 Industrial Visual Anomaly Detection
-Teaching machines to spot defects using **PatchCore, Anomalib and Computer Vision** — exploring PCB inspection and real-time deployment.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Visual Anomaly Detection
+**Industrial AI / Computer Vision**
+
+Teaching machines to detect PCB defects using **PatchCore + Anomalib**, with the goal of real-time camera inspection.
+
+`Python` `PatchCore` `Anomalib` `Computer Vision`
+
+**STATUS:** 🟡 In development
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧠 AI IT Troubleshooting Assistant
-An AI-assisted diagnostic system combining **Python, FastAPI, Windows diagnostics and local LLMs** to turn system telemetry into practical troubleshooting guidance.
+**AI Systems / IT Automation**
 
-### 📚 [Document RAG Chatbot](https://github.com/riknesh77/document-rag-chatbot)
-A document-grounded question-answering system using **MiniLM embeddings, PostgreSQL + pgvector, reranking and LLM generation**.
+Combining **local LLMs, FastAPI and Windows diagnostics** to turn system telemetry into practical troubleshooting guidance.
+
+`Python` `FastAPI` `Local LLMs` `Diagnostics`
+
+**STATUS:** 🟡 In development
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📚 [Document RAG Chatbot →](https://github.com/riknesh77/document-rag-chatbot)
+**Retrieval-Augmented Generation**
+
+Document-grounded Q&A with **MiniLM embeddings → pgvector retrieval → reranking → LLM generation → evidence validation**.
+
+`Next.js` `MiniLM` `PostgreSQL` `pgvector` `RAG`
+
+**STATUS:** 🟢 Working
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -112,6 +148,6 @@ Automotive enthusiast — permanently.
 
 `riknesh@github:~$ █`
 
-**Always building. Always learning.**
+**Better tools. Smarter systems. Real-world impact.**
 
 </div>
